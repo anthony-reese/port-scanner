@@ -23,7 +23,7 @@ cmake --build .
 or open the project in Qt Creator and click Build ➔ Run.
 
 ### 📸 Screenshot
-![Port Scanner Demo](image-1.png)
+![Port Scanner Screenshot](./images/port-scanner-demo.png)
 
 ### 📄 License
 [MIT](https://mit-license.org)
