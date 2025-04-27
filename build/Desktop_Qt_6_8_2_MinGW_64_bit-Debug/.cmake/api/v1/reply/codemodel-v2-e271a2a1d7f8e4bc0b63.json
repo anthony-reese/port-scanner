@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-66a1f48ed3cfe86c054c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "port-scanner",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "port-scanner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-port-scanner-Debug-f49f0cb53a21e2ce8b3b.json",
+					"name" : "port-scanner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "port-scanner_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-port-scanner_autogen-Debug-d368b92a36153e53d5bb.json",
+					"name" : "port-scanner_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "port-scanner_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-port-scanner_autogen_timestamp_deps-Debug-97cd52a7620f06e7fd70.json",
+					"name" : "port-scanner_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/projects/port-scanner/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/projects/port-scanner"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

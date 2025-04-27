@@ -1,0 +1,19 @@
+# ninja log v6
+24	942	7674893725634749	build.ninja	5fbe6341da0848b8
+83	2663	7674893091570688	port-scanner_autogen/timestamp	bc1584fbbbbe5354
+83	2663	7674893091570688	port-scanner_autogen/mocs_compilation.cpp	bc1584fbbbbe5354
+2837	3147	7674893095650552	CMakeFiles/port-scanner.dir/appicon.rc.obj	b09c5614b3a678bf
+83	2663	7674893091570688	D:/Qt/projects/port-scanner/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/port-scanner_autogen/timestamp	bc1584fbbbbe5354
+83	2663	7674893091570688	D:/Qt/projects/port-scanner/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/port-scanner_autogen/mocs_compilation.cpp	bc1584fbbbbe5354
+2664	6690	7674893093926751	CMakeFiles/port-scanner.dir/port-scanner_autogen/mocs_compilation.cpp.obj	732c20c21bb5df3a
+2699	6699	7674893094268248	CMakeFiles/port-scanner.dir/main.cpp.obj	10c5d270fd0126ef
+2742	15761	7674893094702373	CMakeFiles/port-scanner.dir/mainwindow.cpp.obj	20315fda65a905dd
+15762	17619	7674893224901125	port-scanner.exe	91852f366b3b0789
+52	160	7674890725010896	CMakeFiles/clean.additional	baedbe210acaa455
+160	202	7674890726097807	clean	9c4b4372737ab8da
+42	424	7674922851810360	port-scanner_autogen/timestamp	bc1584fbbbbe5354
+42	424	7674922851810360	port-scanner_autogen/mocs_compilation.cpp	bc1584fbbbbe5354
+42	424	7674922851810360	D:/Qt/projects/port-scanner/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/port-scanner_autogen/timestamp	bc1584fbbbbe5354
+42	424	7674922851810360	D:/Qt/projects/port-scanner/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/port-scanner_autogen/mocs_compilation.cpp	bc1584fbbbbe5354
+425	7824	7674922855638279	CMakeFiles/port-scanner.dir/mainwindow.cpp.obj	20315fda65a905dd
+7824	8832	7674922929631299	port-scanner.exe	91852f366b3b0789
