@@ -2,7 +2,7 @@
 Simple TCP port scanner with a clean Qt GUI.
 Enter an IP and port range, scan, and view open ports with response times.
 
-### 🚀 Features
+### Features
 - Built with C++ and Qt
 
 - Asynchronous port scanning
@@ -11,7 +11,7 @@ Enter an IP and port range, scan, and view open ports with response times.
 
 - Cross-platform
 
-### 🛠️ Build
+### Build
 
 ```bash
 git clone https://github.com/anthony-reese/port-scanner.git  
@@ -22,8 +22,8 @@ cmake --build .
 ```
 or open the project in Qt Creator and click Build ➔ Run.
 
-### 📸 Screenshot
+### Screenshot
 ![Port Scanner Screenshot](./images/port-scanner-demo.png)
 
-### 📄 License
+### License
 [MIT](https://mit-license.org)
